@@ -1,0 +1,25 @@
+.app {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 30px;
+  max-width: 900px;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.main-title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #4a4a4a;
+}
+
+.section-title {
+  color: #222;
+  border-left: 4px solid #4caf50;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
